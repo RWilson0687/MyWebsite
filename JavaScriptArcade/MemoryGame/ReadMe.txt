@@ -1,1 +1,0 @@
-Players interact with the game by clicking on the cards, and the game's visual feedback and alert messages guide them through the matching process. The objective is to find all pairs of matching cards in the fewest tries possible.
