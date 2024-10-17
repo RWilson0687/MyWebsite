@@ -1,0 +1,1 @@
+This code initiates the whack-a-mole game by starting the mole's movement, which randomly appears in different squares every second. It also begins a countdown timer that decreases the time remaining for the game. As the countdown progresses, it updates the display to show the current time left. When the time runs out, the game stops, and an alert shows the player's final score.

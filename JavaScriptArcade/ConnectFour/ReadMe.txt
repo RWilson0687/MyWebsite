@@ -1,0 +1,1 @@
+	This code sets up the interactive mechanics for a Connect Four game, allowing two players to take turns dropping pieces into a grid. It checks for wins after each move and updates the display accordingly. The use of event listeners and class manipulation is key to managing game state and player interactions.
